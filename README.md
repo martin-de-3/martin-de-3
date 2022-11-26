@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @martin-de-3
+- 👀 I’m interested in django, android studio
